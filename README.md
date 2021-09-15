@@ -4,6 +4,6 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=erfanbanaei&show_icons=true&theme=radical)](https://github.com/erfanbanaei)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![instagram](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
