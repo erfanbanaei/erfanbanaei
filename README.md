@@ -2,4 +2,4 @@
 
 ## Web Developer
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=SAMY&show_icons=true&theme=radical)](https://github.com/samyarkd)
+[![github stats](https://github-readme-stats.vercel.app/api?username=erfanbanaei&show_icons=true&theme=radical)](https://github.com/erfanbanaei)
