@@ -2,5 +2,4 @@
 
 ## Web Developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?erfanbanaei=anuraghazra&show_icons=true&theme=radical)](https://github.com/erfanbanaei)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?erfanbanaei=anuraghazra&theme=radical&show_icons=true)
