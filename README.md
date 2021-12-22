@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi there</h1>
 
-##Core skills
+## Core skills
 - 📫 <b>Languages</b> : HTML, CSS, Sass, JavaScript, Python, Bash
 
 
@@ -18,6 +18,7 @@
 <br>
 <span align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=erfanbanaei&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <span>            </span>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbanaei&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   </span>
 <br><br>
